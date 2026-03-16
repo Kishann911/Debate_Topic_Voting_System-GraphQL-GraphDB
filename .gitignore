@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.DS_Store
+*.db
+.next/
+node_modules/
+.env
